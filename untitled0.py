@@ -118,6 +118,10 @@ test2 = tt.as_tensor_variable(X.astype(int), dtype="int32")  #creates a tensor v
 https://www.pymc.io/projects/examples/en/latest/case_studies/reinforcement_learning.html
 
 https://www.pymc.io/projects/examples/en/latest/howto/data_container.html
+  
+  https://discourse.pymc.io/t/newbie-random-censoring-using-pymc-censored/11188
+    
+    chart of follwing: small box plots with mean like shooing up  too busy? does seaborn have simple boxplots
 
  Starting with PyMC 5.0, Aesara was replaced by PyTensor (see https://www.pymc.io/blog/pytensor_announcement.html).   
  
